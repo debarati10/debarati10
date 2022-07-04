@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @debarati10
 - 👀 I’m interested in competitive programming and development.
 - 🌱 I’m currently learning python and machine learning.
-- 💞️ I’m looking to collaborate on machine learning and c++ open source projects.
+- 💞️ I’m looking to collaborate on machine learning and open source projects.
 - 📫 How to reach me debaratichakrabarti10@gmail.com
 
 <!---
