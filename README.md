@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274_1280.jpg">
+<img src="https://w0.peakpx.com/wallpaper/139/415/HD-wallpaper-breaking-fantasy-dragon-eastern-philosophy.jpg">
 
 # 💫 About Me:
 🎓 I am in my final year studying Electronics and Communication Engineering<br>👩‍💻 I practice Data Structures and Algortihms in C++<br>💻  I’m interested in competitive programming and web development<br>🌱 I’m currently learning python and machine learning<br>🐸 Fun Fact: In my free time I love painting and swimming<br>📫 Reach me at debaratichakrabarti10@gmail.com<br>
