@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://w0.peakpx.com/wallpaper/139/415/HD-wallpaper-breaking-fantasy-dragon-eastern-philosophy.jpg">
 
-# 💫 About Me:
- 🎓 I am in my final year studying Electronics and Communication Engineering<br>👩‍💻 I practice Data Structures and Algorithms in C++<br>💻  I’m interested in competitive programming and web development<br>🌱 I’m currently learning python and machine learning<br>🐸 Fun Fact: In my free time I love painting and swimming<br>📫 Reach me at debaratichakrabarti10@gmail.com<br><br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debaratichakrabarti) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19690406) 
