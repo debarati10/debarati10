@@ -42,6 +42,5 @@ I'm currently pursuing my MS in Computer Science at Columbia University, graduat
 
 ## 📊 GitHub stats
 
-![](https://github-readme-stats.vercel.app/api?username=debarati10&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=debarati10&theme=bear&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debarati10&theme=bear&hide_border=true&layout=compact)
