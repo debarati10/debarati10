@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://w0.peakpx.com/wallpaper/139/415/HD-wallpaper-breaking-fantasy-dragon-eastern-philosophy.jpg">
 
-I'm currently pursuing my MS in Computer Science at Columbia University, graduating Dec 2027. Before Columbia, I spent three years at BNY in Pune as a Senior Software Engineer working across distributed systems and AI applications. This semester I'm also working as a Machine Learning Engineer in Columbia Business School's Build Lab.
+I'm currently pursuing my MS in Computer Science at Columbia University, graduating Dec 2027. Before Columbia, I spent three years at BNY as a Senior Software Engineer working across distributed systems and AI applications. This semester I'm also working as a Machine Learning Engineer in Columbia Business School's Build Lab.
 
 - 🔭 Working on ML pipelines for a Build Lab venture
 - 🎯 Looking for Summer 2027 internships in AI, software, cloud and platform engineering
